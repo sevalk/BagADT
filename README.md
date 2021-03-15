@@ -1,6 +1,6 @@
 # BagADT
  
-The-Bag-ADT Bag data structures The Bag ADT
+data structures The Bag ADT
 
 Write an implementation for data structure Bag as a Java class, which is similar to a set, but it may contain several instances of the same member. For example, {'to', 'be', 'or', 'not', 'to', 'be'} is a bag of words, which is equal to {'be', 'be', 'not', 'or', 'to', 'to'} (since order of members is insignificant), but is unequal to {'be', 'not', 'or', 'to'} (since the number of instances is significant). Adding a member increases the number of instances in the bag by one and removing a member decreases the number of instances in the bag by one. The member is deleted from the bag when it has no instances.
 
